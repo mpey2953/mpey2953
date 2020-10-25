@@ -1,8 +1,6 @@
 ### Hi! 👋
 
-<!--- 
-<img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/banner.png" alt="Banner about mpey2953">
- -->
+<img src="https://github.com/mpey2953/mpey2953/blob/main/mpey2953_banner_github.png?raw=true" alt="Banner about mpey2953">
 
 ![SQL](https://img.shields.io/badge/SQL-Intermediate-white&color=2bbc8a)
 ![R](https://img.shields.io/badge/R-Intermediate-white&color=2bbc8a)

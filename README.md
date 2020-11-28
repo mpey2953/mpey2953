@@ -1,6 +1,10 @@
-### Hey there 👋,
-
-<img src="https://github.com/mpey2953/mpey2953/blob/main/mpey2953_banner_github.png?raw=true" alt="Banner about mpey2953">
+### Hi👋,
+<br>
+<div align="center">
+  <img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+  <br>
+<br>
+<br>
 
 ![SQL](https://img.shields.io/badge/SQL-Intermediate-white&color=2bbc8a)
 ![R](https://img.shields.io/badge/R-Intermediate-white&color=2bbc8a)

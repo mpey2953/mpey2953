@@ -3,7 +3,7 @@
 ![SQL](https://img.shields.io/badge/SQL-Intermediate-white&color=2bbc8a)
 ![R](https://img.shields.io/badge/R-Intermediate-white&color=2bbc8a)
 ![Python](https://img.shields.io/badge/Python-Beginner-blue)
-![Cloud Computing](https://img.shields.io/badge/CloudComputing-Intermediate-white&color=2bbc8a)
+![Cloud Computing](https://img.shields.io/badge/Cloud-Computing-Intermediate-white&color=2bbc8a)
 ![Gunbot](https://img.shields.io/badge/Crypto-Enthusiast-red)
 
 

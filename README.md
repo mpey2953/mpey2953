@@ -8,11 +8,12 @@
 
 ![SQL](https://img.shields.io/badge/SQL-Intermediate-white&color=2bbc8a)
 ![R](https://img.shields.io/badge/R-Intermediate-white&color=2bbc8a)
-![RMarkdown](https://img.shields.io/badge/RMarkdown-Beginner-blue)
 ![Python](https://img.shields.io/badge/Python-Beginner-blue)
+![Cloud Computing](https://img.shields.io/badge/CloudComputing-Intermediate-white&color=2bbc8a)
 ![Gunbot](https://img.shields.io/badge/Crypto-Enthusiast-red)
 
-I'm mpey2953, a Business Intelligence alumni of the [University of Applied Sciences in Business Administration Zurich](https://fh-hwz.ch/english/) with +7 years experience in the field of data analytics. Part-time developer with passion for cryptocurrency, thrilled [Gunbot](https://thecryptobot.com/) binance futures trader. In love with Bicycles, convinced Kuota-Bikes representative.
+I'm mpey2953, a Business Intelligence alumni of the [University of Applied Sciences in Business Administration Zurich](https://fh-hwz.ch/english/) with +7 years experience in the field of data analytics. Part-time developer with passion for cryptocurrency, thrilled [Gunbot](https://thecryptobot.com/) binance futures trader.
+
 
 ##### MOTTO
 

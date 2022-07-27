@@ -19,13 +19,6 @@ Most of my open-source projects below 👇🏻 are focused on one thing - to hel
 
 [mpey2953.github.io](https://mpey2953.github.io)
 
-<a href="https://www.linkedin.com/in/mpey2953/" title="Follow me on LinkedIn">
-  <img
-    width="24"
-    alt="Follow me on LinkedIn"
-    src="https://raw.githubusercontent.com/mpey2953/mpey2953.github.io/master/assets/icons/linkedin.svg"
-  /></a>
-&nbsp;
 <a href="https://medium.com/@mpey2953" title="Follow me on Medium">
   <img
     width="24"
